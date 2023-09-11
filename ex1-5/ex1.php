@@ -13,7 +13,7 @@ $ten=$_POST["ten"];
 $xuat_ten="Chào bạn ".$ten;
 }
 ?>
-<form action="vidu.php" method="post" >
+<form action="ex1.php" method="post" >
 <table width="271" border="1">
 <tr>
 <td colspan="2" bgcolor="#336699"><strong>In lời chào</strong></td>
@@ -35,4 +35,3 @@ id="chao" value="Xuất" /></td>
 </form>
 </body>
 </html>
-Kết quả cuố
